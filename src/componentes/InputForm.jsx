@@ -12,7 +12,7 @@ export const InputForm = ({ placeholder, onInputSubmit }) => {
   }
 
   return (
-    <form className="form" onSubmit={handleSubmit}>
+    <form className="form" onSubmit={handleSubmit} aria-label='form'>
       <input
         type="text"
         className="form__input"

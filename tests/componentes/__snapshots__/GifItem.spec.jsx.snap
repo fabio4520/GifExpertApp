@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en el componente <GifItem /> debe de mostrar la url enviado por props 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <figure>
+      <img
+        alt="Un titulo"
+        src="https://localhost/algo.jpg"
+      />
+    </figure>
+    <p>
+      Un titulo
+    </p>
+  </div>
+</div>
+`;
